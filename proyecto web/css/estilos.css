@@ -1,0 +1,10 @@
+#menu{
+    background-color: #2d4074;
+    
+}
+#menu ul li a{
+    color: white;
+}
+.carousel-inner{
+    max-height: 38rem;
+}
